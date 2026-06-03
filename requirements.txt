@@ -1,0 +1,7 @@
+tensorflow>=2.13
+numpy>=1.24
+matplotlib>=3.7
+pyyaml>=6.0
+tqdm>=4.65
+# gymnasium-stag-hunt: install from source
+# git clone https://github.com/giorgiofranceschelli/Gymnasium-Stag-Hunt.git && pip install .
