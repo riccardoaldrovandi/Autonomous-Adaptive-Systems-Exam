@@ -199,7 +199,7 @@
   ---
   Author
 
-  Riccardo Aldrovandi — riccardoaldrovandi@unibo.it
+  Riccardo Aldrovandi — riccardo.aldrovandi3@unibo.it — riccardo.aldro@gmail.com
   Course: Autonomous and Adaptive Systems
   University of Bologna, A.A. 2025/2026
 
