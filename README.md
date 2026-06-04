@@ -49,6 +49,7 @@
   ---
   
   ## Project structure
+   ```
 
   .
   ├── agents/
@@ -68,6 +69,7 @@
   ├── main.py                 # live visualization (matplotlib)
   ├── train_evo.py            # evolutionary hyperparameter search (proof of concept)
   └── results/                # saved weights and training logs
+ ```
 
   ---
 
