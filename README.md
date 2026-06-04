@@ -14,7 +14,6 @@
   ---
 
   ## Algorithms
-```
   | Algorithm | Update frequency | Advantage |
   |-----------|-----------------|-----------|
   | A2C | Every T=5 steps | n-step return |
@@ -26,7 +25,6 @@
 
   **Architecture**: Actor and Critic are separate networks — `Input → Dense(64,
   relu) → Dense(64, relu) → output`.
-```
   ---
 
   ## Environments
