@@ -14,7 +14,7 @@
   ---
 
   ## Algorithms
-
+```
   | Algorithm | Update frequency | Advantage |
   |-----------|-----------------|-----------|
   | A2C | Every T=5 steps | n-step return |
@@ -26,11 +26,11 @@
 
   **Architecture**: Actor and Critic are separate networks — `Input → Dense(64,
   relu) → Dense(64, relu) → output`.
-
+```
   ---
 
   ## Environments
-
+```
   | Game | Cooperation structure | Key finding |
   | Hunt | Coordinate to catch stag | A2C learns passive exploit (stay still);
   PPO/MAPPO converge to hare equilibrium |
@@ -38,7 +38,7 @@
   (timing credit assignment) |
   | Escalation | Maintain mutual cooperation streak | PPO >> MAPPO >> A2C
   (rollout horizon) |
-  
+  ```
   ### Training variants
   
   - **Standard**: fixed `stag_follows=True` (Hunt only)
