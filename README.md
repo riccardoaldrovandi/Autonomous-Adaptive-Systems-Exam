@@ -200,7 +200,7 @@
   Author
 
   Riccardo Aldrovandi — riccardoaldrovandi@unibo.it
-  Course: Autonomous and Adaptive Systems, Prof. Giorgio Franceschelli
+  Course: Autonomous and Adaptive Systems
   University of Bologna, A.A. 2025/2026
 
   ---
