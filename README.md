@@ -66,8 +66,7 @@
   ├── train.py                # CLI entry point for training
   ├── evaluate.py             # CLI entry point for evaluation
   ├── main.py                 # live visualization (matplotlib)
-  ├── train_evo.py            # evolutionary hyperparameter search (proof of
-  concept)
+  ├── train_evo.py            # evolutionary hyperparameter search (proof of concept)
   └── results/                # saved weights and training logs
 
   ---
